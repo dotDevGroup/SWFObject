@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/dotDevGroup/SWFObject/main/images/header.gif"/>
 </div>
 
-## Suporte Multiíngue
+## Suporte Multilíngue
 Este repositório foi marcado pela [dotDev](https://github.com/dotDevGroup) como um *repositório multilíngue*. Isto implica que ele trabalhará com base em duas ou mais línguas, das quais poderão ser adicionadas com o tempo. Atualmente, o repositório do SWFObject e sua Wiki estão disponíveis em dois idiomas além do **Português Brasileiro**: **Inglês** e **Espanhol**. 
 
 ## Multilanguage Support
