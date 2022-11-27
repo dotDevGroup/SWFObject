@@ -13,3 +13,35 @@ Este repositorio ha sido marcado por [dotDev](https://github.com/dotDevGroup) co
 
 ## Por que retornar com o SWFObject?
 Após mais de oito anos sem notícias do repositório oficial, começamos a perceber que o SWFObject, ainda utilizado em muitos projetos de Habbos Retrô anda defasado e **com diversos problemas que tocam à respeito da segurança**. Tendo isso em mente, e tendo muita noção que muitas pessoas ainda utilizam do **Adobe Flash Player** em algumas de suas atividades na internet, resolvemos atualizar o repositório, refatorando-o para uma versão mais atualizada e que consiga renderizar objetos com mais facilidade e velocidade. Notamos que o principal recurso, e que renderiza os elementos **DOM** do *Flash* está extremamente defasado, o **ActiveXObject**, originalmente utilizado como implementação no **IE+5.5**.
+
+#### English Translation
+
+
+#### Traducción Española
+
+### O que podemos esperar do novo SWFObject?
+Um sistema criptográfico para proteger as suas *variáveis* sem conflitos com o **JavaScript** ou o **PHP**; linguagem utilizada na maior parte dos sites que ainda utilizam do *Flash* retroativamente. Todas as requisições externas seguirão à risca o protocolo ``https``, garantindo criptografia de ponta a ponta, ao passo em que mantém todos os dados sensíveis de seu projeto seguros. 
+
+#### English Translation
+
+
+#### Traducción Española
+
+#### **SWFObject** ``2.3.20130521``
+```javascript
+var flashvars = {
+  "client.allow.cross.domain": "1",
+  "client.notify.cross.domain": "0",
+  "site.url": "value",
+  "use.sso.ticket": "1",
+  "sso.ticket": "value",
+  "processlog.enabled": "1",
+  "flash.client.origin": "popup",
+  "connection.server": "value",
+  "external.client": "false"
+};
+```
+#### **SWFObject** ``3.0.0`` (e.g.)
+```javascript
+var flashvars = ewogICJjbGllbnQuYWxsb3cuY3Jvc3MuZG9tYWluIjogIjEiLAogICJjbGllbnQubm90aWZ5LmNyb3NzLmRvbWFpbiI6ICIwIiwKICAic2l0ZS51cmwiOiAidmFsdWUiLAogICJ1c2Uuc3NvLnRpY2tldCI6ICIxIiwKICAic3NvLnRpY2tldCI6ICJ2YWx1ZSIsCiAgInByb2Nlc3Nsb2cuZW5hYmxlZCI6ICIxIiwKICAiZmxhc2guY2xpZW50Lm9yaWdpbiI6ICJwb3B1cCIsCiAgImNvbm5lY3Rpb24uc2VydmVyIjogInZhbHVlIiwKICAiZXh0ZXJuYWwuY2xpZW50IjogImZhbHNlIgp9;
+```
