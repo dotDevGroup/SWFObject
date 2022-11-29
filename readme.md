@@ -49,11 +49,13 @@ var flashvars = ewogICJjbGllbnQuYWxsb3cuY3Jvc3MuZG9tYWluIjogIjEiLAogICJjbGllbnQu
 ```
 
 ## Coletânea Adobe Flash Player 2022
-A coletânea **Adobe Flash Player 2022** contra com outros repositórios que são úteis para manutenção de um ambiente Flash neste ano. Com o **Apache Flex** cortando as ferramentas principais, resolvemos juntar todas as informações sobre a linguagem em vários repositórios, que serão atualizados conforme houverem mais avanços em adquirir as antigas ferramentas novamente. Eles podem ser conferidos abaixo.
+A coletânea **Adobe Flash Player 2022** conta com outros repositórios que são úteis para manutenção de um ambiente Flash neste ano. Com o **Apache Flex** cortando as ferramentas principais, resolvemos juntar todas as informações sobre a linguagem em vários repositórios, que serão atualizados conforme houverem mais avanços em adquirir as antigas ferramentas novamente. Eles podem ser conferidos abaixo.
 
 #### English Translation
+The **Adobe Flash Player 2022** collection has other repositories that are useful for maintaining a Flash environment this year. With **Apache Flex** cutting the main tools, we decided to gather all the information about the language in several repositories, which will be updated as there is more progress in acquiring the old tools again. They can be seen below.
 
 #### Traducción Española
+La colección **Adobe Flash Player 2022** tiene otros repositorios que son útiles para mantener un entorno Flash este año. Con **Apache Flex** recortando las herramientas principales, decidimos recopilar toda la información sobre el lenguaje en varios repositorios, los cuales se irán actualizando a medida que se avance en la adquisición de las herramientas antiguas nuevamente. Se pueden ver a continuación.
 
 ### Links
 1. [ClothingBuilder](https://github.com/dotDevGroup/ClothingBuilder) (Apache Flex)  
