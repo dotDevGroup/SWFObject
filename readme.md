@@ -47,3 +47,15 @@ var flashvars = {
 ```javascript
 var flashvars = ewogICJjbGllbnQuYWxsb3cuY3Jvc3MuZG9tYWluIjogIjEiLAogICJjbGllbnQubm90aWZ5LmNyb3NzLmRvbWFpbiI6ICIwIiwKICAic2l0ZS51cmwiOiAidmFsdWUiLAogICJ1c2Uuc3NvLnRpY2tldCI6ICIxIiwKICAic3NvLnRpY2tldCI6ICJ2YWx1ZSIsCiAgInByb2Nlc3Nsb2cuZW5hYmxlZCI6ICIxIiwKICAiZmxhc2guY2xpZW50Lm9yaWdpbiI6ICJwb3B1cCIsCiAgImNvbm5lY3Rpb24uc2VydmVyIjogInZhbHVlIiwKICAiZXh0ZXJuYWwuY2xpZW50IjogImZhbHNlIgp9;
 ```
+
+## Coletânea Adobe Flash Player 2022
+A coletânea **Adobe Flash Player 2022** contra com outros repositórios que são úteis para manutenção de um ambiente Flash neste ano. Com o **Apache Flex** cortando as ferramentas principais, resolvemos juntar todas as informações sobre a linguagem em vários repositórios, que serão atualizados conforme houverem mais avanços em adquirir as antigas ferramentas novamente. Eles podem ser conferidos abaixo.
+
+#### English Translation
+
+#### Traducción Española
+
+### Links
+1. [ClothingBuilder](https://github.com/dotDevGroup/ClothingBuilder) (Apache Flex)  
+2. [FurniBuilder](https://github.com/dotDevGroup/FurniBuilder) (Apache Flex)  
+3. [SWFObject Wiki](https://github.com/dotDevGroup/SWFObject/wiki) (ActionScript)
